@@ -1,0 +1,1 @@
+<script src="https://stage.api.mastercard.com/billpayAPI/v1/isRoutingValid" id="api"></script>
